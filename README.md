@@ -1,16 +1,18 @@
 # cw_circleSorted
 This is a cw kata - the task from CodeWars website where community discourse and solving interesting code problems.
 
+## CodeWars task!
 
+### level - 6 kyu
+
+## Subject
 An array is circularly sorted if the elements are sorted in ascending order, but displaced, or rotated, by any number of steps.
 
 Complete the function/method that determines if the given array of integers is circularly sorted.
 
-Examples
+### Examples
 These arrays are circularly sorted (true):
 ```
-
-
 [2, 3, 4, 5, 0, 1]       -->  [0, 1] + [2, 3, 4, 5]
 [4, 5, 6, 9, 1]          -->  [1] + [4, 5, 6, 9]
 [10, 11, 6, 7, 9]        -->  [6, 7, 9] + [10, 11]
